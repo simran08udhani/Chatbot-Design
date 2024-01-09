@@ -1,4 +1,4 @@
-# Chatbot Figma Community File
+# Chatbot Figma 
 
 Welcome to the Chatbot Figma Community file! This file is created and shared by [Simran Udhani](https://www.figma.com/@simranudhani).
 
