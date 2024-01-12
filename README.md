@@ -21,7 +21,7 @@ You can preview the Chatbot Figma file by following this [link](https://www.figm
 If you have any feedback, suggestions, or questions, you can contact the author through their [Figma profile](https://www.figma.com/@simranudhani).
 
 ## License
-This Figma Community file is shared under the terms of the [Figma Community's licensing](https://help.figma.com/en/articles/686887-figma-community-file-licensing).
+The Chatbot Figma file is licensed under the [MIT License](LICENSE).
 
 ---
 
